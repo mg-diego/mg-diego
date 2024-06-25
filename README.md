@@ -5,8 +5,8 @@
 <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/353413/appium.svg" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="Robotframework" alt="Robotframework" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;  
 </p>
 
 ### 🛠 &nbsp;Languages and CI/CD :
@@ -32,19 +32,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg-diego&layout=compact)
-
-
-<!--
-**mg-diego/mg-diego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
