@@ -5,6 +5,8 @@
 <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/353413/appium.svg" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="Robotframework" alt="Robotframework" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
+  
 </p>
 
 ### 🛠 &nbsp;Languages and CI/CD :
