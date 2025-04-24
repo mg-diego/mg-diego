@@ -29,7 +29,15 @@
 ### 📮 &nbsp;Databases :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+</p>
+<br />
+
+### 💻 &nbsp;Personal Projects :
+<p>
+<a href="https://github.com/mg-diego/timeline-explorer">🌍 Timeline Explorer</a><br />
+<a href="https://github.com/mg-diego/baby-tracker">👶 Baby Tracker Dashboard</a><br />
+<a href="https://github.com/mg-diego/testing-sample-app">🔍 Testing Sample App</a><br />
 </p>
 <br />
 
