@@ -37,8 +37,9 @@
 <p>
 <a href="https://github.com/mg-diego/timeline-explorer">🌍 Timeline Explorer</a><br />
 <a href="https://github.com/mg-diego/baby-tracker">👶 Baby Tracker Dashboard</a><br />
-<a href="https://github.com/mg-diego/testing-sample-app">🔍 Testing Sample App</a><br />
+<a href="https://github.com/mg-diego/testing-sample-app">🕵️ Testing Sample App</a><br />
 </p>
 <br />
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg-diego&layout=compact)
